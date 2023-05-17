@@ -26,13 +26,13 @@
             <repository>
               <id>nexus</id>
               <name>Insight Tech Releases Nexus Repository</name>
-              <url>http://54.82.70.203:8081/repository/chase-release/</url>
+              <url>http://54.164.107.58:8081/repository/chase-release/</url>
             </repository>
 
             <snapshotRepository>
               <id>nexus</id>
               <name>Insight Tech Snapshot Nexus Repository </name>
-              <url>http://54.82.70.203:8081/repository/chase-snapshot//</url>
+              <url>http://54.164.107.58:8081/repository/chase-snapshot//</url>
             </snapshotRepository>
    </distributionManagement>
   
@@ -41,7 +41,7 @@
                 <spring.version>5.1.2.SNAPSHOTS</spring.version>
                 <junit.version>4.11</junit.version>
                 <log4j.version>1.2.17</log4j.version>
-                <sonar.host.url>http://44.212.66.169:9000/</sonar.host.url>
+                <sonar.host.url>http://18.234.140.67:9000/</sonar.host.url>
                 <sonar.login>admin</sonar.login>
                 <sonar.password>Alemnji1980</sonar.password>
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
