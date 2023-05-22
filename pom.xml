@@ -26,13 +26,13 @@
             <repository>
               <id>nexus</id>
               <name>Insight Tech Releases Nexus Repository</name>
-              <url>http://54.164.107.58:8081/repository/chase-release/</url>
+              <url>http://107.22.82.111:8081/repository/chase-release/</url>
             </repository>
 
             <snapshotRepository>
               <id>nexus</id>
               <name>Insight Tech Snapshot Nexus Repository </name>
-              <url>http://54.164.107.58:8081/repository/chase-snapshot//</url>
+              <url>http://107.22.82.111:8081/repository/chase-snapshot//</url>
             </snapshotRepository>
    </distributionManagement>
   
